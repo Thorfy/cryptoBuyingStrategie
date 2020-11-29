@@ -1,0 +1,13 @@
+OPTIMISATION 
+Ajout des frais de transactions (reel => actuellement 1% de la transaction)
+AJout du RSI en parallele => si plus de 70 on ne buy plus, si -30 on buy plus de fois 
+Ajout des Fees en temps reel 
+Choix de la crypto
+plage  de rentabilité
+
+
+
+ETUDE DE FIABILITE
+Ajout dynamique du modele de donnees (pour tester sur n'importe quel periode et plage de temps) => periode en cours, plage aussi
+Ajout stockage ecart type moyenne (obj moyenne haute ecart type faible)
+
