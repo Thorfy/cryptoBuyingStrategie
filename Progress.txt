@@ -1,6 +1,6 @@
 OPTIMISATION 
 Ajout des frais de transactions (reel => actuellement 1% de la transaction)
-AJout du RSI en parallele => si plus de 70 on ne buy plus, si -30 on buy plus de fois 
+AJout du RSI en parallele
 Ajout des Fees en temps reel 
 Choix de la crypto
 plage  de rentabilité
